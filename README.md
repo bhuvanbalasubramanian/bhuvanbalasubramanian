@@ -10,7 +10,7 @@ A Software engineer specializing in JavaScript technologies and Microsoft Azure.
 
 ### Open source projects
 
-- <a href="https://utmbuilderga.netlify.app">UTM Builder for Google Analytics</a>
+- UTM Builder for Google Analytics - [[Code](https://github.com/bhuvanbalasubramanian/utmbuilder)] [[Demo](https://utmbuilderga.netlify.app)]
 
 ---
 ### Tech Skills
