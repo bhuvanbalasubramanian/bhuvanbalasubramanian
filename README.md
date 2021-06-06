@@ -1,4 +1,4 @@
-# Hello, I'm Bhuvneswaran Balasubramanian 👋
+# Hello, I'm Bhuvaneswaran Balasubramanian 👋
 
 ![Node](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
